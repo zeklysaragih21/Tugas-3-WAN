@@ -1,4 +1,4 @@
-                                                                  ## TUGAS 3 Wan
+   ## TUGAS 3 Wan
 
  ## 1. SINYAL RF(Radio Frekuensi)
   Sinyal RF merupakan gelombang elektromagnetik yang digunakan oleh sistem komunikasi untuk mengirim informasi melalui udara dari satu titik ke titik lain. Sinyal RF telah digunakan selama beberapa tahun. Sinyal tersebut memberikan cara untuk mengirimkan musik pada radio FM dan video pada televisi. Pada kenyataannya, sinyal RF juga merupakan sarana umum untuk mengirim data melalui jaringan wireless.
@@ -51,10 +51,9 @@ Karena perangkat dengan standar teknis 802.11b diperuntukkan bagi perangkat WLAN
  2. laptop
  3. mesin printer
  4. tablet
- 5. notebook 
- 
- 
-                                                   ## MAAF PAK SAYA AMBIL DARI GOOLE 
+ 5. notebbook
+  
+       ## MAAF PAK SAYA AMBIL DARI GOOLE 
  
 
  ## 5. ENDCODING(PENGKODEAN)
