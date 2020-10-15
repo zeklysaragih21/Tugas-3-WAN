@@ -57,7 +57,7 @@ Karena perangkat dengan standar teknis 802.11b diperuntukkan bagi perangkat WLAN
       ## MAAF PAK SAYA AMBIL DARI GOOLE 
  
 
- ## ENDCODING(PENGKODEAN)
+ ## 5. ENDCODING(PENGKODEAN)
    pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek) menjadi data, yang selanjutnya dikirimkan ke penerima atau pengamat, seperti pada sistem pemrosesan data. Pengawakodean atau pengawasandian (decoding) adalah proses kebalikannya, yaitu konversi data yang telah dikirimkan oleh sumber menjadi informasi yang dimengerti oleh penerima. Kodek (codec) adalah penerapan aturan atau algoritme untuk penyandian dan pengawasandian (sebagai contoh MP3) yang dapat berupa penerapan paa sisi perangkat keras maupun perangkat lunak, dan mungkin pula melibatkan kompresi data.
 
 Penyandian adalah proses untuk mengubah sinyal ke dalam bentuk yang dioptimasi untuk keperluan transmisi data atau penyimpanan data
